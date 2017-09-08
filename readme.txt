@@ -5,4 +5,3 @@ Git is free software.
 我想把这句话在我的github上也可以看得见
 github is very good
 Creating A new branch is quick...!!!
-Switched to a new branch 'dev'
